@@ -1,0 +1,26 @@
+{
+  "name": "tdd-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5hyun/TDD-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5hyun/TDD-study/issues"
+  },
+  "homepage": "https://github.com/5hyun/TDD-study#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.0"
+  }
+}
